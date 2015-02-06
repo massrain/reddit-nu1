@@ -1,2 +1,2 @@
-# reddit-nu1
-Custom subreddit css
+# Custom subreddit css
+For subreddit /r/NewUploader1
